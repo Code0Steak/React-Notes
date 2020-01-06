@@ -12,3 +12,7 @@
 
 * [Routing in React](react-router/untitled.md)
 
+## Redux - State Container for JS Apps
+
+* [What is Redux? Why Redux?](redux-state-container-for-js-apps/what-is-redux-why-redux.md)
+
