@@ -45,6 +45,28 @@ The structure of the action object is upto us. The only requirement is that it h
 
 The **third principle** of Redux: to **describe** **state mutations**, **write a function that takes the previous state of the app, the action being dispatched and returns the next step of the application.** This function has to pure and is called a **Reducer**.
 
+in a nutshell:
+
+{% tabs %}
+{% tab title="1rst Principal" %}
+> Single source of truth
+>
+> The state of the entire application is store in an object tree with a single store.
+{% endtab %}
+
+{% tab title="2nd Principal" %}
+> State is read only
+>
+> The only way to change a state is to emit an action, an object describing what happened.
+{% endtab %}
+
+{% tab title="3rd Principal" %}
+> Changes are made with pure functions
+>
+> To specify how the state tree is transformed by actions, you need to write pure reducers.
+{% endtab %}
+{% endtabs %}
+
 
 
 
