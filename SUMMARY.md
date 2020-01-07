@@ -14,5 +14,6 @@
 
 ## Redux - State Container for JS Apps
 
-* [What is Redux? Why Redux?](redux-state-container-for-js-apps/what-is-redux-why-redux.md)
+* [What is Redux? Why Redux? Redux Architecture](redux-state-container-for-js-apps/what-is-redux-why-redux.md)
+* [Redux Libraries](redux-state-container-for-js-apps/redux-libraries.md)
 

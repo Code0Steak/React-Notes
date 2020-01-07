@@ -1,4 +1,4 @@
-# What is Redux? Why Redux?
+# What is Redux? Why Redux? Redux Architecture
 
 ### Redux is a predictable state container for JS Apps. It helps us write applications that behave consistently, run in different environments and are easy to test.
 
@@ -67,7 +67,15 @@ in a nutshell:
 {% endtab %}
 {% endtabs %}
 
+### Why Redux?
+
+Redux makes React state scalable and more predictable.
+
+### Redux Architecture
 
 
 
+It follows a Flux pattern
+
+Action ➡ Dispatcher ➡ Store ➡ View
 
