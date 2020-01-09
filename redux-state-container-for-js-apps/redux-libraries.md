@@ -3,12 +3,12 @@
 The libs used in Chanel project: redux, redux-logger, react-redux.
 
 {% tabs %}
-{% tab title="Redux" %}
+{% tab title="redux" %}
 _**combineReducers**_ to combine all the individual reducers into a single state tree!!
 {% endtab %}
 
-{% tab title="Second Tab" %}
-
+{% tab title="redux-logger" %}
+Logs the prev-state, action and next-state in the console.  
 {% endtab %}
 
 {% tab title="react-redux" %}
