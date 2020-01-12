@@ -17,3 +17,7 @@
 * [What is Redux? Why Redux? Redux Architecture](redux-state-container-for-js-apps/what-is-redux-why-redux.md)
 * [Redux Libraries](redux-state-container-for-js-apps/redux-libraries.md)
 
+## React Hooks
+
+* [Intro to Hooks](react-hooks/intro-to-hooks.md)
+
