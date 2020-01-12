@@ -73,7 +73,7 @@ Redux makes React state scalable and more predictable.
 
 ### Redux Architecture
 
-
+![](../.gitbook/assets/screenshot_2020-01-07-11-01-22-281_com.udemy.android.png)
 
 It follows a Flux pattern
 
