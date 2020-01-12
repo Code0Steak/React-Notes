@@ -6,7 +6,6 @@
 * [State vs Props](state-vs-props.md)
 * [Component and Props](component-and-props.md)
 * [State and LifeCycle](state-and-lifecycle.md)
-* [Events](events.md)
 
 ## React Router
 
