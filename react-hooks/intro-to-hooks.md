@@ -22,7 +22,11 @@ Class components have presented issues with latest tools\( module bundlers like 
 {% endtab %}
 {% endtabs %}
 
+So,
 
+> Hooks are functions that help us _hook into_ React state and lifecycle methods, from functional components.
+>
+> They let us use React without classes.
 
 
 

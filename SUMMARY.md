@@ -19,4 +19,5 @@
 ## React Hooks
 
 * [Intro to Hooks](react-hooks/intro-to-hooks.md)
+* [A look at React's custom Hooks](react-hooks/a-look-at-reacts-custom-hooks.md)
 
