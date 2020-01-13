@@ -1,6 +1,6 @@
 # Intro to Hooks
 
-Hooks are a new feature added to React\(16.8 and onwards\), they provide a more direct API towards the usage of props, state, context, lifecycle methods, etc. in a functional component. They, in a way promote the use of a functional component 💁🏻‍♂️
+Hooks are a new feature added to React\(16.8 onwards\), they provide a more direct API towards the usage of props, state, context, lifecycle methods, etc. in a functional component. They, in a way promote the use of a functional component 💁🏻‍♂️
 
 ### Motivation
 

@@ -2,7 +2,7 @@
 description: "\U0001F9D0"
 ---
 
-# A look at React's custom Hooks
+# A look at React's Hooks
 
 1. _useState_ Hook:
 
@@ -55,5 +55,9 @@ useEffect(() => {
 
 
 
-3. 
+ Building our own Hooks:
+
+This is done to share logic between two JS functions! This can be an alternative to render props and HOC's. 
+
+A custom Hook is a JS function whose name starts with 'use' and that may call other Hooks. 
 
