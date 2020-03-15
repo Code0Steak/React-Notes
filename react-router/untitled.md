@@ -34,7 +34,7 @@ History prop can be used for the abv purpose.
 
 For more insight [refer](https://codesandbox.io/s/hidden-dawn-298hg)
 
-**withRouter**  is a higher order component\(\) that takes a component\(child component\) as an argument and returns a modified component\(containing information abot the history, match, location props of the parent\). This prevents prop drilling. 
+**withRouter**  is a higher order component\(\) that takes a component\(child component\) as an argument and returns a modified component\(containing information about the history, match, location props of the parent\). This prevents prop drilling. 
 
 
 
