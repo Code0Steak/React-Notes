@@ -6,7 +6,7 @@ React is a Java Script Library for building User-Interfaces.
 
    **1. Don't touch the DOM:**
 
-React uses a Declarative approach for manipulating the DOM. When some events are triggered, React reacts to the events based upon the state of the application after the event took place, by essentially manipulating the DOM.
+React uses a Declarative approach for manipulating the DOM. When some events are triggered, React reacts to the events based upon the state of the application after the event took place, by  manipulating the DOM.
 
 DOM operations are costly as they involve repainting and re-flow operations. So, the Declarative approach is a very effective way of manipulating the DOM as compared to the Imperative approach, where the developer makes use of the DOM API for manipulating the DOM.
 
@@ -26,7 +26,7 @@ The component level design to separate concerns, the unidirectional data-flow fo
 
 The same React Library is utilized to build web-apps, desktop-apps, mobile-apps, VR-apps and command line interfaces.
 
-Because of the above reasons React became the single most popular framework \(as of 2019\), used by several popular web-apps like Airbnb, Twitch, Mixer, Dribble, etc....
+Because of the above reasons React became the single most popular framework \(as of 2019\), used by several popular web-apps like Airbnb, Twitter, Twitch, Mixer, Dribble, etc....
 
 ### Some Facts
 
